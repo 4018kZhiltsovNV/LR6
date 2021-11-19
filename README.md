@@ -53,7 +53,7 @@
   
 ![13](https://user-images.githubusercontent.com/94634803/142622454-81b8e928-cb12-4feb-ac5d-67cf3f732920.png)
 
-Все сработало, отлично. Теперь сделаем хард откат коммита. Вводим команду git reset --hard HEAD~1
+Все сработало, отлично. Теперь сделаем хард откат коммита. Вводим команду __git reset --hard HEAD~1__
   
 ![14](https://user-images.githubusercontent.com/94634803/142622642-0712dbe5-1be2-4c91-86c1-24fa658d27bb.png)
   
